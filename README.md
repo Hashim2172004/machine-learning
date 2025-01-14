@@ -41,4 +41,4 @@ df3.plot()
 
 df.boxplot(figsize=(20,10))
 
-f.select_dtypes(include='float')
+df.select_dtypes(include='float')
